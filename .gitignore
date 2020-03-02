@@ -1,2 +1,7 @@
+# generated files
+.vscode
+.ipynb_checkpoints
+
+# my files
 *.pdf
 A2Q4.ipynb
